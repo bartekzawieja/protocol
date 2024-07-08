@@ -1,0 +1,8 @@
+#ifndef SIZE_CONST_H
+#define SIZE_CONST_H
+
+#define TCP_SERVER_QUEUE_LENGTH 5
+#define MAX_DATA_PACKET_SIZE 64168
+#define MAX_DATA_SIZE 64000
+
+#endif // SIZE_CONST_H
